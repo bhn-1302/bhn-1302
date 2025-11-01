@@ -39,7 +39,7 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chapetta&theme=gotham" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=bhn-1302&theme=gotham" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhn-1302&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhn-1302&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhn-1302&theme=tokyonight" />
