@@ -15,7 +15,7 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 
 ✨ Estou sempre aberto a sugestões e feedbacks que possam contribuir com meu crescimento profissional!
  
- ## 🔗 Conecte comigo
+ ## 🔗 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brenno-henrique-nascimento" target="_blank">
@@ -33,11 +33,6 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 
 [![Preview do Portfólio](https://github.com/bhn-1302/portfolio-front-end/blob/main/public/gifs/gif-preview.gif)](https://portfolio-front-end-omega-wheat.vercel.app/)
 > 🚀 Em desenvolvimento — mas já acessível para visualização! Clique na imagem para ir pro site!!
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhn-1302&label=Profile%20views&color=0e75b6&style=flat" alt="Brenno Henrique Do Nascimento" />
-</p>
 
 ---
 
@@ -98,7 +93,7 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 
 | Projeto | Descrição | Tech Stack | Status | Demo |
 | --- | --- | --- | --- | --- |
-| **Portfólio Pessoal** | Portfólio pessoal desenvolvido em React + TypeScript + Tailwind CSS | React, TypeScript, Tailwind | Em construção |
+| **Portfólio Pessoal** | Portfólio pessoal desenvolvido em React + TypeScript + Tailwind CSS | React, TypeScript, Tailwind | Em construção | [Demo](https://portfolio-front-end-omega-wheat.vercel.app/) |
 | **Post-its Interativos** | Um aplicativo React que simula um quadro de post-its virtual, onde é possível criar, mover, escrever e deletar post-its livremente — tudo de forma dinâmica e persistente no navegador. | React, TypeScript, TailwindCSS | Pronto | [Demo](https://postit-board.netlify.app/) |
 | **Analisador Gemini** | Este projeto é um analisador de código alimentado pela API Gemini do Google. Desenvolvido com React + Vite | React, TypeScript, Zustand, Tailwind, API Gemini | Pronto | [Demo](https://github.com/bhn-1302/analisador-gemini) |
 
