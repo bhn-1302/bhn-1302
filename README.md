@@ -31,7 +31,7 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 
 ## 🖥️ Meu Portfólio
 
-[![Preview do Portfólio](https://github.com/bhn-1302/portfolio-front-end/blob/main/public/gifs/gif-preview.gif)](https://brenno-portfolio.netlify.app/)
+[![Preview do Portfólio](https://github.com/bhn-1302/meu-portfolio/blob/main/public/gif/gif-portfolio.gif)](https://brenno-portfolio.netlify.app/)
 
 ---
 
