@@ -31,8 +31,7 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 
 ## 🖥️ Meu Portfólio
 
-[![Preview do Portfólio](https://github.com/bhn-1302/portfolio-front-end/blob/main/public/gifs/gif-preview.gif)](https://portfolio-front-end-omega-wheat.vercel.app/)
-> 🚀 Em desenvolvimento — mas já acessível para visualização! Clique na imagem para ir pro site!!
+[![Preview do Portfólio](https://github.com/bhn-1302/portfolio-front-end/blob/main/public/gifs/gif-preview.gif)](https://brenno-portfolio.netlify.app/)
 
 ---
 
@@ -93,9 +92,9 @@ Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **
 
 | Projeto | Descrição | Tech Stack | Status | Demo |
 | --- | --- | --- | --- | --- |
-| **Portfólio Pessoal** | Portfólio pessoal desenvolvido em React + TypeScript + Tailwind CSS | React, TypeScript, Tailwind | Em construção | [Demo](https://portfolio-front-end-omega-wheat.vercel.app/) |
+| **Portfólio Pessoal** | Portfólio pessoal desenvolvido em React + TypeScript + Tailwind CSS | React, TypeScript, Tailwind | Pronto | (https://brenno-portfolio.netlify.app/) |
 | **Post-its Interativos** | Um aplicativo React que simula um quadro de post-its virtual, onde é possível criar, mover, escrever e deletar post-its livremente — tudo de forma dinâmica e persistente no navegador. | React, TypeScript, TailwindCSS | Pronto | [Demo](https://postit-board.netlify.app/) |
-| **Analisador Gemini** | Este projeto é um analisador de código alimentado pela API Gemini do Google. Desenvolvido com React + Vite | React, TypeScript, Zustand, Tailwind, API Gemini | Pronto | [Demo](https://github.com/bhn-1302/analisador-gemini) |
+| **Finance Flow** | Este projeto de Controle Finance inclui um Assistente Virtual de IA com API do Google Gemini. Desenvolvido com React + Vite | React, TypeScript, Zustand, Tailwind, API Gemini | Pronto | [Demo](https://github.com/bhn-1302/finance-flow) |
 
 ## 📫 Contato
 
