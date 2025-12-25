@@ -4,10 +4,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Front-End Júnior, com foco em **React**, **TypeScript** e **Tailwind CSS.**
+Sou Desenvolvedor Front-End, com foco em **React**, **TypeScript** e **Tailwind CSS.**
 Trabalho com arquitetura limpa, testes básicos e deploys em plataformas como **Vercel** e **Netlify.**
 
-🔭 Atualmente desenvolvo projetos pessoais, buscando aprimorar minhas habilidades em diferentes contextos e desafios reais.
+🔭 Atualmente desenvolvo projetos pessoais e voluntários, buscando aprimorar minhas habilidades em diferentes contextos e desafios reais.
 
 🌱 Estou estudando e explorando novas tecnologias, incluindo **Inteligência Artificial**, para expandir minha visão sobre o ecossistema de desenvolvimento.
 
