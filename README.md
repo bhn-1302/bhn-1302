@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Brenno Henrique Do Nascimento 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+Front-End;React+|+TypeScript+|+TailwindCSS;Open+to+Work+😁)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+Front-End;React+|+TypeScript+|+Tailwind;Open+to+Work+😁)](#)
 
 ## 👨‍💻 Sobre mim
 
